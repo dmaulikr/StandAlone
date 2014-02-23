@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
+		<key>Inheritance.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
 		<key>Integer.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -38,6 +43,11 @@
 			<true/>
 		</dict>
 		<key>126D868518B84E5300200772</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>12BA65C418BA95BA000C7C26</key>
 		<dict>
 			<key>primary</key>
 			<true/>
