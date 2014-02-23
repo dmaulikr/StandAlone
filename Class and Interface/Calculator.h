@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "Fraction.h"
 
 @interface Calculator : NSObject
 
@@ -19,5 +20,7 @@
 -(int) divide:(int)x :(int)y;
 
 -(void)result:(int)r;
+
+-(void) printResult: (Fraction *)f;
 
 @end

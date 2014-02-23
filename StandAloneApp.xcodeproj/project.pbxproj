@@ -17,6 +17,7 @@
 		126D868A18B84E5300200772 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 126D868918B84E5300200772 /* Foundation.framework */; };
 		126D868D18B84E5300200772 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 126D868C18B84E5300200772 /* main.m */; };
 		126D869118B84E5300200772 /* StandAloneApp.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 126D869018B84E5300200772 /* StandAloneApp.1 */; };
+		12BA65C018BA62E4000C7C26 /* Fraction.m in Sources */ = {isa = PBXBuildFile; fileRef = 12BA65BF18BA62E4000C7C26 /* Fraction.m */; };
 		12C682CE18B982C100164C74 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 126D868918B84E5300200772 /* Foundation.framework */; };
 		12C682D118B982C100164C74 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 12C682D018B982C100164C74 /* main.m */; };
 		12C682D518B982C100164C74 /* Class_and_Interface.1 in CopyFiles */ = {isa = PBXBuildFile; fileRef = 12C682D418B982C100164C74 /* Class_and_Interface.1 */; };
@@ -82,6 +83,8 @@
 		126D868C18B84E5300200772 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		126D868F18B84E5300200772 /* StandAloneApp-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "StandAloneApp-Prefix.pch"; sourceTree = "<group>"; };
 		126D869018B84E5300200772 /* StandAloneApp.1 */ = {isa = PBXFileReference; lastKnownFileType = text.man; path = StandAloneApp.1; sourceTree = "<group>"; };
+		12BA65BE18BA62E4000C7C26 /* Fraction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Fraction.h; sourceTree = "<group>"; };
+		12BA65BF18BA62E4000C7C26 /* Fraction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Fraction.m; sourceTree = "<group>"; };
 		12C682CD18B982C100164C74 /* Class and Interface */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Class and Interface"; sourceTree = BUILT_PRODUCTS_DIR; };
 		12C682D018B982C100164C74 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		12C682D318B982C100164C74 /* Class and Interface-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Class and Interface-Prefix.pch"; sourceTree = "<group>"; };
@@ -221,6 +224,8 @@
 				12C682D218B982C100164C74 /* Supporting Files */,
 				12C682D918B982E000164C74 /* Calculator.h */,
 				12C682DA18B982E000164C74 /* Calculator.m */,
+				12BA65BE18BA62E4000C7C26 /* Fraction.h */,
+				12BA65BF18BA62E4000C7C26 /* Fraction.m */,
 			);
 			path = "Class and Interface";
 			sourceTree = "<group>";
@@ -365,6 +370,7 @@
 			files = (
 				12C682D118B982C100164C74 /* main.m in Sources */,
 				12C682DB18B982E000164C74 /* Calculator.m in Sources */,
+				12BA65C018BA62E4000C7C26 /* Fraction.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

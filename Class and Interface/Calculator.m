@@ -37,4 +37,10 @@
     
     NSLog(@ "The results of %i",r);
 }
+
+-(void) printResult:(Fraction *)f{
+    
+    NSLog(@"The result Fraction demoninator %i",f.demoninator);
+    NSLog(@"The Result Fraction numerator %i",f.numerator);
+}
 @end
