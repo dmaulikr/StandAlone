@@ -4,6 +4,21 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Class and Interface.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Integer.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>NsLog.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>StandAloneApp.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -12,7 +27,22 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>122AD48918B909C200329236</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>122AD49918B9123900329236</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>126D868518B84E5300200772</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>12C682CC18B982C100164C74</key>
 		<dict>
 			<key>primary</key>
 			<true/>
