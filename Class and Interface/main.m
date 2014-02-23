@@ -22,7 +22,7 @@ int main(int argc, const char * argv[])
         
         //get the result from addition method and then call result method.
         result = [calculator addition: 6:8];
-        
+        //display results..
         [calculator result:result];
         
         
